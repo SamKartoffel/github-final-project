@@ -1,2 +1,10 @@
 # simple-interest
-Hosts Sample Code to calculate interest of user input data.
+A Calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input: 
+  p, principal amount
+  t, time period in years
+  r, annual rate of interest
+  
+ Outpuut
+  simple interest = p*t*r
